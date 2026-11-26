@@ -7,7 +7,7 @@
   { "name": "React", "icon": "react.svg" },
   { "name": "Markdown", "icon": "markdown.svg" },
   { "name": "PHP", "icon": "php.svg" },
-  { "name": "Python", "icon": "python.svg", "Learning": true, "learntpercentage": 19 },
+  { "name": "Python", "icon": "python.svg", "Learning": true, "learntpercentage": 25 },
   { "name": "Bash Script", "icon": "bash.svg" },
   { "name": "Cloudflare", "icon": "cloudflare.svg" },
   { "name": "Firebase", "icon": "firebase.svg"},

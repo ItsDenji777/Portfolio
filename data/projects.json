@@ -40,5 +40,11 @@
     "description": "A Telegram music downloader for finding and downloading songs directly through Telegram. ",
     "tech": ["Python", "FFmpeg", "Mutagen"],
     "link": "https://github.com/ItsDenji777/Denjify-Bot"
+  },
+  {
+  "title": "Moons of the Solar System",
+  "description": "An interactive Persian-language educational presentation on the Solar System's natural moons, gravity, tidal forces, and geological evolution",
+  "tech": ["JavaScript", "WebGL", "Vite", "CSS"],
+  "link": "https://project-moonlit.vercel.app/"
   }
 ]
